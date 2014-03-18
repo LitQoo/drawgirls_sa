@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1E9F01D2-AD54-4D50-9A72-143C8841AF5A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DGproto</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>60A3B806-246E-4183-BFE4-DBFCA0798B2A</key>
+		<string>https://github.com/LitQoo/DrawGirlsProto.git</string>
+		<key>C87DA9DE-DEDA-4749-BD89-6DCD2ED0EF28</key>
+		<string>https://github.com/LitQoo/cocos2dx-extension-dg.git</string>
+		<key>EFBD032C-6CAE-42FB-82D5-CF067A99F9D6</key>
+		<string>https://github.com/LitQoo/dgcocos2d-x.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>proj.ios/DGproto.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>60A3B806-246E-4183-BFE4-DBFCA0798B2A</key>
+		<string>../../..</string>
+		<key>C87DA9DE-DEDA-4749-BD89-6DCD2ED0EF28</key>
+		<string>../../../../../extensions</string>
+		<key>EFBD032C-6CAE-42FB-82D5-CF067A99F9D6</key>
+		<string>../../../../../cocos2dx</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/LitQoo/DrawGirlsProto.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>60A3B806-246E-4183-BFE4-DBFCA0798B2A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EFBD032C-6CAE-42FB-82D5-CF067A99F9D6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cocos2dx</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>60A3B806-246E-4183-BFE4-DBFCA0798B2A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>dgproto</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C87DA9DE-DEDA-4749-BD89-6DCD2ED0EF28</string>
+			<key>IDESourceControlWCCName</key>
+			<string>extensions</string>
+		</dict>
+	</array>
+</dict>
+</plist>
